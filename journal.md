@@ -2,6 +2,7 @@
 
 ## Session 1
 - Installé Python, Git (git config --global user.name/user.email, git clone (link)), VS Code
+- Sauvegarder avec Git: git status; git add (file); git status; git commit -m "(nom docs); git push origin main
 - Appris les commandes terminal de base (cd .., cd, pwd, touch, mkdir, ls)
 - Premier programme Python exécuté
 
