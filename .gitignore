@@ -2,3 +2,4 @@
 *.env          # ignorer les fichiers de config sensibles
 __pycache__/   # ignorer les dossiers Python temporaires
 *.pyc          # ignorer les fichiers compilés Python
+venv/
