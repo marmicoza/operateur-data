@@ -13,7 +13,7 @@ if [ -z "$NOM_PROJET" ]; then
     echo "Erreur : tu dois donner un nom au projet."
     exit 1
 fi
-# Si aucun argument donné → affiche erreur et arrête
+# Si aucun argument donné, affiche erreur et arrête
 
 mkdir -p $NOM_PROJET/{docs,data/raw,data/processed,notebooks,scripts,outputs}
 # Crée le dossier projet et tous ses sous-dossiers d'un coup
